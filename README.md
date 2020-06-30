@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React_calendar
 =======
 React_calendar
